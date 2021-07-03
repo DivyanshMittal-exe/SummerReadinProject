@@ -1,0 +1,1 @@
+mpmath.mpf(2)**mpmath.mpf('0.5')
