@@ -1,0 +1,263 @@
+********************************************************************************
+For n = 5
+[ 1. -1. -1.  0.  1.]
+[-1.  1.  1. -1.  0.]
+[-1.  1.  0.  1. -1.]
+[ 0.  0.  0. -1.  1.]
+[ 0.  0. -1.  1.  0.]
+[ 1.  1.  1. -1. -1.]
+[ 0. -1.  1.  1. -1.]
+[-1.  0.  0.  0.  0.] Added value: -1.4142135623730951 Dot Product value : -10.000000000000004True 
+[1. 0. 0. 0. 0.] Added value: 1.4142135623730951 Dot Product value : 10.000000000000004True 
+[ 0. -1.  0.  0.  0.] Added value: -1.7320508075688772 Dot Product value : -13.000000000000004True 
+[-1. -1.  0.  0.  0.] Added value: -3.1462643699419726 Dot Product value : -23.000000000000007True 
+[ 1. -1.  0.  0.  0.] Added value: -0.31783724519578205 Dot Product value : -3.0True 
+[0. 1. 0. 0. 0.] Added value: 1.7320508075688772 Dot Product value : 13.000000000000004True 
+[-1.  1.  0.  0.  0.] Added value: 0.31783724519578205 Dot Product value : 3.0True 
+[1. 1. 0. 0. 0.] Added value: 3.1462643699419726 Dot Product value : 23.000000000000007True 
+[ 0.  0. -1.  0.  0.] Added value: -2.23606797749979 Dot Product value : -16.000000000000004True 
+[-1.  0. -1.  0.  0.] Added value: -3.6502815398728847 Dot Product value : -26.000000000000007True 
+[ 1.  0. -1.  0.  0.] Added value: -0.8218544151266947 Dot Product value : -6.0True 
+[ 0. -1. -1.  0.  0.] Added value: -3.968118785068667 Dot Product value : -29.000000000000007True 
+[-1. -1. -1.  0.  0.] Added value: -5.382332347441762 Dot Product value : -39.000000000000014True 
+[ 1. -1. -1.  0.  0.] Added value: -2.5539052226955716 Dot Product value : -19.000000000000004True 
+[ 0.  1. -1.  0.  0.] Added value: -0.5040171699309126 Dot Product value : -3.0True 
+[-1.  1. -1.  0.  0.] Added value: -1.9182307323040078 Dot Product value : -13.000000000000004True 
+[ 1.  1. -1.  0.  0.] Added value: 0.9101963924421828 Dot Product value : 7.0000000000000036True 
+[0. 0. 1. 0. 0.] Added value: 2.23606797749979 Dot Product value : 16.000000000000004True 
+[-1.  0.  1.  0.  0.] Added value: 0.8218544151266947 Dot Product value : 6.0True 
+[1. 0. 1. 0. 0.] Added value: 3.6502815398728847 Dot Product value : 26.000000000000007True 
+[ 0. -1.  1.  0.  0.] Added value: 0.5040171699309126 Dot Product value : 3.0True 
+[-1. -1.  1.  0.  0.] Added value: -0.9101963924421828 Dot Product value : -7.0000000000000036True 
+[ 1. -1.  1.  0.  0.] Added value: 1.9182307323040078 Dot Product value : 13.000000000000004True 
+[0. 1. 1. 0. 0.] Added value: 3.968118785068667 Dot Product value : 29.000000000000007True 
+[-1.  1.  1.  0.  0.] Added value: 2.5539052226955716 Dot Product value : 19.000000000000004True 
+[1. 1. 1. 0. 0.] Added value: 5.382332347441762 Dot Product value : 39.000000000000014True 
+[ 0.  0.  0. -1.  0.] Added value: -2.449489742783178 Dot Product value : -18.000000000000004True 
+[-1.  0.  0. -1.  0.] Added value: -3.863703305156273 Dot Product value : -28.000000000000007True 
+[ 1.  0.  0. -1.  0.] Added value: -1.0352761804100827 Dot Product value : -8.0True 
+[ 0. -1.  0. -1.  0.] Added value: -4.1815405503520555 Dot Product value : -31.000000000000007True 
+[-1. -1.  0. -1.  0.] Added value: -5.59575411272515 Dot Product value : -41.000000000000014True 
+[ 1. -1.  0. -1.  0.] Added value: -2.7673269879789597 Dot Product value : -21.000000000000004True 
+[ 0.  1.  0. -1.  0.] Added value: -0.7174389352143007 Dot Product value : -5.0True 
+[-1.  1.  0. -1.  0.] Added value: -2.131652497587396 Dot Product value : -15.000000000000004True 
+[ 1.  1.  0. -1.  0.] Added value: 0.6967746271587947 Dot Product value : 5.0000000000000036True 
+[ 0.  0. -1. -1.  0.] Added value: -4.685557720282968 Dot Product value : -34.00000000000001True 
+[-1.  0. -1. -1.  0.] Added value: -6.099771282656063 Dot Product value : -44.000000000000014True 
+[ 1.  0. -1. -1.  0.] Added value: -3.2713441579098728 Dot Product value : -24.000000000000004True 
+[ 0. -1. -1. -1.  0.] Added value: -6.417608527851845 Dot Product value : -47.000000000000014True 
+[-1. -1. -1. -1.  0.] Added value: -7.83182209022494 Dot Product value : -57.000000000000014True 
+[ 1. -1. -1. -1.  0.] Added value: -5.0033949654787495 Dot Product value : -37.00000000000001True 
+[ 0.  1. -1. -1.  0.] Added value: -2.9535069127140905 Dot Product value : -21.000000000000004True 
+[-1.  1. -1. -1.  0.] Added value: -4.367720475087186 Dot Product value : -31.000000000000007True 
+[ 1.  1. -1. -1.  0.] Added value: -1.5392933503409951 Dot Product value : -11.0True 
+[ 0.  0.  1. -1.  0.] Added value: -0.21342176528338808 Dot Product value : -2.0True 
+[-1.  0.  1. -1.  0.] Added value: -1.6276353276564832 Dot Product value : -12.000000000000004True 
+[ 1.  0.  1. -1.  0.] Added value: 1.2007917970897068 Dot Product value : 8.000000000000004True 
+[ 0. -1.  1. -1.  0.] Added value: -1.9454725728522653 Dot Product value : -15.000000000000004True 
+[-1. -1.  1. -1.  0.] Added value: -3.3596861352253606 Dot Product value : -25.000000000000007True 
+[ 1. -1.  1. -1.  0.] Added value: -0.5312590104791701 Dot Product value : -5.0True 
+[ 0.  1.  1. -1.  0.] Added value: 1.5186290422854891 Dot Product value : 11.000000000000004True 
+[-1.  1.  1. -1.  0.] Added value: 0.10441547991239375 Dot Product value : 1.0True 
+[ 1.  1.  1. -1.  0.] Added value: 2.9328426046585845 Dot Product value : 21.00000000000001True 
+[0. 0. 0. 1. 0.] Added value: 2.449489742783178 Dot Product value : 18.000000000000004True 
+[-1.  0.  0.  1.  0.] Added value: 1.0352761804100827 Dot Product value : 8.0True 
+[1. 0. 0. 1. 0.] Added value: 3.863703305156273 Dot Product value : 28.000000000000007True 
+[ 0. -1.  0.  1.  0.] Added value: 0.7174389352143007 Dot Product value : 5.0True 
+[-1. -1.  0.  1.  0.] Added value: -0.6967746271587947 Dot Product value : -5.0000000000000036True 
+[ 1. -1.  0.  1.  0.] Added value: 2.131652497587396 Dot Product value : 15.000000000000004True 
+[0. 1. 0. 1. 0.] Added value: 4.1815405503520555 Dot Product value : 31.000000000000007True 
+[-1.  1.  0.  1.  0.] Added value: 2.7673269879789597 Dot Product value : 21.000000000000004True 
+[1. 1. 0. 1. 0.] Added value: 5.59575411272515 Dot Product value : 41.000000000000014True 
+[ 0.  0. -1.  1.  0.] Added value: 0.21342176528338808 Dot Product value : 2.0True 
+[-1.  0. -1.  1.  0.] Added value: -1.2007917970897068 Dot Product value : -8.000000000000004True 
+[ 1.  0. -1.  1.  0.] Added value: 1.6276353276564832 Dot Product value : 12.000000000000004True 
+[ 0. -1. -1.  1.  0.] Added value: -1.5186290422854891 Dot Product value : -11.000000000000004True 
+[-1. -1. -1.  1.  0.] Added value: -2.9328426046585845 Dot Product value : -21.00000000000001True 
+[ 1. -1. -1.  1.  0.] Added value: -0.10441547991239375 Dot Product value : -1.0True 
+[ 0.  1. -1.  1.  0.] Added value: 1.9454725728522653 Dot Product value : 15.000000000000004True 
+[-1.  1. -1.  1.  0.] Added value: 0.5312590104791701 Dot Product value : 5.0True 
+[ 1.  1. -1.  1.  0.] Added value: 3.3596861352253606 Dot Product value : 25.000000000000007True 
+[0. 0. 1. 1. 0.] Added value: 4.685557720282968 Dot Product value : 34.00000000000001True 
+[-1.  0.  1.  1.  0.] Added value: 3.2713441579098728 Dot Product value : 24.000000000000004True 
+[1. 0. 1. 1. 0.] Added value: 6.099771282656063 Dot Product value : 44.000000000000014True 
+[ 0. -1.  1.  1.  0.] Added value: 2.9535069127140905 Dot Product value : 21.000000000000004True 
+[-1. -1.  1.  1.  0.] Added value: 1.5392933503409951 Dot Product value : 11.0True 
+[ 1. -1.  1.  1.  0.] Added value: 4.367720475087186 Dot Product value : 31.000000000000007True 
+[0. 1. 1. 1. 0.] Added value: 6.417608527851845 Dot Product value : 47.000000000000014True 
+[-1.  1.  1.  1.  0.] Added value: 5.0033949654787495 Dot Product value : 37.00000000000001True 
+[1. 1. 1. 1. 0.] Added value: 7.83182209022494 Dot Product value : 57.000000000000014True 
+[ 0.  0.  0.  0. -1.] Added value: -2.6457513110645907 Dot Product value : -20.000000000000004True 
+[-1.  0.  0.  0. -1.] Added value: -4.059964873437686 Dot Product value : -30.000000000000007True 
+[ 1.  0.  0.  0. -1.] Added value: -1.2315377486914956 Dot Product value : -10.0True 
+[ 0. -1.  0.  0. -1.] Added value: -4.377802118633468 Dot Product value : -33.00000000000001True 
+[-1. -1.  0.  0. -1.] Added value: -5.792015681006563 Dot Product value : -43.000000000000014True 
+[ 1. -1.  0.  0. -1.] Added value: -2.9635885562603725 Dot Product value : -23.000000000000004True 
+[ 0.  1.  0.  0. -1.] Added value: -0.9137005034957135 Dot Product value : -7.0True 
+[-1.  1.  0.  0. -1.] Added value: -2.327914065868809 Dot Product value : -17.000000000000004True 
+[ 1.  1.  0.  0. -1.] Added value: 0.5005130588773818 Dot Product value : 3.0000000000000036True 
+[ 0.  0. -1.  0. -1.] Added value: -4.8818192885643805 Dot Product value : -36.00000000000001True 
+[-1.  0. -1.  0. -1.] Added value: -6.2960328509374754 Dot Product value : -46.000000000000014True 
+[ 1.  0. -1.  0. -1.] Added value: -3.4676057261912856 Dot Product value : -26.000000000000004True 
+[ 0. -1. -1.  0. -1.] Added value: -6.613870096133258 Dot Product value : -49.000000000000014True 
+[-1. -1. -1.  0. -1.] Added value: -8.028083658506354 Dot Product value : -59.000000000000014True 
+[ 1. -1. -1.  0. -1.] Added value: -5.199656533760162 Dot Product value : -39.00000000000001True 
+[ 0.  1. -1.  0. -1.] Added value: -3.1497684809955033 Dot Product value : -23.000000000000004True 
+[-1.  1. -1.  0. -1.] Added value: -4.563982043368599 Dot Product value : -33.00000000000001True 
+[ 1.  1. -1.  0. -1.] Added value: -1.735554918622408 Dot Product value : -13.0True 
+[ 0.  0.  1.  0. -1.] Added value: -0.4096833335648009 Dot Product value : -4.0True 
+[-1.  0.  1.  0. -1.] Added value: -1.823896895937896 Dot Product value : -14.000000000000004True 
+[ 1.  0.  1.  0. -1.] Added value: 1.004530228808294 Dot Product value : 6.0000000000000036True 
+[ 0. -1.  1.  0. -1.] Added value: -2.141734141133678 Dot Product value : -17.000000000000004True 
+[-1. -1.  1.  0. -1.] Added value: -3.5559477035067735 Dot Product value : -27.000000000000007True 
+[ 1. -1.  1.  0. -1.] Added value: -0.727520578760583 Dot Product value : -7.0True 
+[ 0.  1.  1.  0. -1.] Added value: 1.3223674740040763 Dot Product value : 9.000000000000004True 
+[-1.  1.  1.  0. -1.] Added value: -0.09184608836901909 Dot Product value : -1.0True 
+[ 1.  1.  1.  0. -1.] Added value: 2.7365810363771716 Dot Product value : 19.00000000000001True 
+[ 0.  0.  0. -1. -1.] Added value: -5.095241053847769 Dot Product value : -38.00000000000001True 
+[-1.  0.  0. -1. -1.] Added value: -6.5094546162208635 Dot Product value : -48.000000000000014True 
+[ 1.  0.  0. -1. -1.] Added value: -3.6810274914746737 Dot Product value : -28.000000000000004True 
+[ 0. -1.  0. -1. -1.] Added value: -6.827291861416646 Dot Product value : -51.000000000000014True 
+[-1. -1.  0. -1. -1.] Added value: -8.241505423789741 Dot Product value : -61.000000000000014True 
+[ 1. -1.  0. -1. -1.] Added value: -5.41307829904355 Dot Product value : -41.00000000000001True 
+[ 0.  1.  0. -1. -1.] Added value: -3.3631902462788914 Dot Product value : -25.000000000000004True 
+[-1.  1.  0. -1. -1.] Added value: -4.777403808651987 Dot Product value : -35.00000000000001True 
+[ 1.  1.  0. -1. -1.] Added value: -1.948976683905796 Dot Product value : -15.0True 
+[ 0.  0. -1. -1. -1.] Added value: -7.331309031347558 Dot Product value : -54.000000000000014True 
+[-1.  0. -1. -1. -1.] Added value: -8.745522593720654 Dot Product value : -64.00000000000001True 
+[ 1.  0. -1. -1. -1.] Added value: -5.9170954689744635 Dot Product value : -44.00000000000001True 
+[ 0. -1. -1. -1. -1.] Added value: -9.063359838916437 Dot Product value : -67.00000000000001True 
+[-1. -1. -1. -1. -1.] Added value: -10.477573401289531 Dot Product value : -77.00000000000001True 
+[ 1. -1. -1. -1. -1.] Added value: -7.64914627654334 Dot Product value : -57.000000000000014True 
+[ 0.  1. -1. -1. -1.] Added value: -5.599258223778682 Dot Product value : -41.00000000000001True 
+[-1.  1. -1. -1. -1.] Added value: -7.013471786151777 Dot Product value : -51.000000000000014True 
+[ 1.  1. -1. -1. -1.] Added value: -4.185044661405586 Dot Product value : -31.000000000000004True 
+[ 0.  0.  1. -1. -1.] Added value: -2.859173076347979 Dot Product value : -22.000000000000004True 
+[-1.  0.  1. -1. -1.] Added value: -4.273386638721074 Dot Product value : -32.00000000000001True 
+[ 1.  0.  1. -1. -1.] Added value: -1.4449595139748839 Dot Product value : -12.0True 
+[ 0. -1.  1. -1. -1.] Added value: -4.5912238839168555 Dot Product value : -35.00000000000001True 
+[-1. -1.  1. -1. -1.] Added value: -6.005437446289951 Dot Product value : -45.000000000000014True 
+[ 1. -1.  1. -1. -1.] Added value: -3.1770103215437606 Dot Product value : -25.000000000000004True 
+[ 0.  1.  1. -1. -1.] Added value: -1.1271222687791016 Dot Product value : -9.0True 
+[-1.  1.  1. -1. -1.] Added value: -2.541335831152197 Dot Product value : -19.000000000000004True 
+[ 1.  1.  1. -1. -1.] Added value: 0.28709129359399377 Dot Product value : 1.000000000000007True 
+[ 0.  0.  0.  1. -1.] Added value: -0.19626156828141283 Dot Product value : -2.0True 
+[-1.  0.  0.  1. -1.] Added value: -1.610475130654508 Dot Product value : -12.000000000000004True 
+[ 1.  0.  0.  1. -1.] Added value: 1.217951994091682 Dot Product value : 8.000000000000004True 
+[ 0. -1.  0.  1. -1.] Added value: -1.92831237585029 Dot Product value : -15.000000000000004True 
+[-1. -1.  0.  1. -1.] Added value: -3.3425259382233854 Dot Product value : -25.000000000000007True 
+[ 1. -1.  0.  1. -1.] Added value: -0.5140988134771947 Dot Product value : -5.0True 
+[ 0.  1.  0.  1. -1.] Added value: 1.5357892392874648 Dot Product value : 11.000000000000004True 
+[-1.  1.  0.  1. -1.] Added value: 0.12157567691436899 Dot Product value : 1.0True 
+[ 1.  1.  0.  1. -1.] Added value: 2.9500028016605597 Dot Product value : 21.00000000000001True 
+[ 0.  0. -1.  1. -1.] Added value: -2.4323295457812026 Dot Product value : -18.000000000000004True 
+[-1.  0. -1.  1. -1.] Added value: -3.8465431081542976 Dot Product value : -28.000000000000007True 
+[ 1.  0. -1.  1. -1.] Added value: -1.0181159834081075 Dot Product value : -8.0True 
+[ 0. -1. -1.  1. -1.] Added value: -4.164380353350079 Dot Product value : -31.000000000000007True 
+[-1. -1. -1.  1. -1.] Added value: -5.578593915723175 Dot Product value : -41.000000000000014True 
+[ 1. -1. -1.  1. -1.] Added value: -2.7501667909769845 Dot Product value : -21.000000000000004True 
+[ 0.  1. -1.  1. -1.] Added value: -0.7002787382123254 Dot Product value : -5.0True 
+[-1.  1. -1.  1. -1.] Added value: -2.114492300585421 Dot Product value : -15.000000000000004True 
+[ 1.  1. -1.  1. -1.] Added value: 0.7139348241607699 Dot Product value : 5.0000000000000036True 
+[ 0.  0.  1.  1. -1.] Added value: 2.039806409218377 Dot Product value : 14.000000000000004True 
+[-1.  0.  1.  1. -1.] Added value: 0.625592846845282 Dot Product value : 4.0True 
+[ 1.  0.  1.  1. -1.] Added value: 3.454019971591472 Dot Product value : 24.00000000000001True 
+[ 0. -1.  1.  1. -1.] Added value: 0.3077556016494998 Dot Product value : 1.0True 
+[-1. -1.  1.  1. -1.] Added value: -1.1064579607235956 Dot Product value : -9.000000000000004True 
+[ 1. -1.  1.  1. -1.] Added value: 1.7219691640225951 Dot Product value : 11.000000000000004True 
+[ 0.  1.  1.  1. -1.] Added value: 3.7718572167872546 Dot Product value : 27.00000000000001True 
+[-1.  1.  1.  1. -1.] Added value: 2.357643654414159 Dot Product value : 17.000000000000004True 
+[ 1.  1.  1.  1. -1.] Added value: 5.1860707791603495 Dot Product value : 37.000000000000014True 
+[0. 0. 0. 0. 1.] Added value: 2.6457513110645907 Dot Product value : 20.000000000000004True 
+[-1.  0.  0.  0.  1.] Added value: 1.2315377486914956 Dot Product value : 10.0True 
+[1. 0. 0. 0. 1.] Added value: 4.059964873437686 Dot Product value : 30.000000000000007True 
+[ 0. -1.  0.  0.  1.] Added value: 0.9137005034957135 Dot Product value : 7.0True 
+[-1. -1.  0.  0.  1.] Added value: -0.5005130588773818 Dot Product value : -3.0000000000000036True 
+[ 1. -1.  0.  0.  1.] Added value: 2.327914065868809 Dot Product value : 17.000000000000004True 
+[0. 1. 0. 0. 1.] Added value: 4.377802118633468 Dot Product value : 33.00000000000001True 
+[-1.  1.  0.  0.  1.] Added value: 2.9635885562603725 Dot Product value : 23.000000000000004True 
+[1. 1. 0. 0. 1.] Added value: 5.792015681006563 Dot Product value : 43.000000000000014True 
+[ 0.  0. -1.  0.  1.] Added value: 0.4096833335648009 Dot Product value : 4.0True 
+[-1.  0. -1.  0.  1.] Added value: -1.004530228808294 Dot Product value : -6.0000000000000036True 
+[ 1.  0. -1.  0.  1.] Added value: 1.823896895937896 Dot Product value : 14.000000000000004True 
+[ 0. -1. -1.  0.  1.] Added value: -1.3223674740040763 Dot Product value : -9.000000000000004True 
+[-1. -1. -1.  0.  1.] Added value: -2.7365810363771716 Dot Product value : -19.00000000000001True 
+[ 1. -1. -1.  0.  1.] Added value: 0.09184608836901909 Dot Product value : 1.0True 
+[ 0.  1. -1.  0.  1.] Added value: 2.141734141133678 Dot Product value : 17.000000000000004True 
+[-1.  1. -1.  0.  1.] Added value: 0.727520578760583 Dot Product value : 7.0True 
+[ 1.  1. -1.  0.  1.] Added value: 3.5559477035067735 Dot Product value : 27.000000000000007True 
+[0. 0. 1. 0. 1.] Added value: 4.8818192885643805 Dot Product value : 36.00000000000001True 
+[-1.  0.  1.  0.  1.] Added value: 3.4676057261912856 Dot Product value : 26.000000000000004True 
+[1. 0. 1. 0. 1.] Added value: 6.2960328509374754 Dot Product value : 46.000000000000014True 
+[ 0. -1.  1.  0.  1.] Added value: 3.1497684809955033 Dot Product value : 23.000000000000004True 
+[-1. -1.  1.  0.  1.] Added value: 1.735554918622408 Dot Product value : 13.0True 
+[ 1. -1.  1.  0.  1.] Added value: 4.563982043368599 Dot Product value : 33.00000000000001True 
+[0. 1. 1. 0. 1.] Added value: 6.613870096133258 Dot Product value : 49.000000000000014True 
+[-1.  1.  1.  0.  1.] Added value: 5.199656533760162 Dot Product value : 39.00000000000001True 
+[1. 1. 1. 0. 1.] Added value: 8.028083658506354 Dot Product value : 59.000000000000014True 
+[ 0.  0.  0. -1.  1.] Added value: 0.19626156828141283 Dot Product value : 2.0True 
+[-1.  0.  0. -1.  1.] Added value: -1.217951994091682 Dot Product value : -8.000000000000004True 
+[ 1.  0.  0. -1.  1.] Added value: 1.610475130654508 Dot Product value : 12.000000000000004True 
+[ 0. -1.  0. -1.  1.] Added value: -1.5357892392874648 Dot Product value : -11.000000000000004True 
+[-1. -1.  0. -1.  1.] Added value: -2.9500028016605597 Dot Product value : -21.00000000000001True 
+[ 1. -1.  0. -1.  1.] Added value: -0.12157567691436899 Dot Product value : -1.0True 
+[ 0.  1.  0. -1.  1.] Added value: 1.92831237585029 Dot Product value : 15.000000000000004True 
+[-1.  1.  0. -1.  1.] Added value: 0.5140988134771947 Dot Product value : 5.0True 
+[ 1.  1.  0. -1.  1.] Added value: 3.3425259382233854 Dot Product value : 25.000000000000007True 
+[ 0.  0. -1. -1.  1.] Added value: -2.039806409218377 Dot Product value : -14.000000000000004True 
+[-1.  0. -1. -1.  1.] Added value: -3.454019971591472 Dot Product value : -24.00000000000001True 
+[ 1.  0. -1. -1.  1.] Added value: -0.625592846845282 Dot Product value : -4.0True 
+[ 0. -1. -1. -1.  1.] Added value: -3.7718572167872546 Dot Product value : -27.00000000000001True 
+[-1. -1. -1. -1.  1.] Added value: -5.1860707791603495 Dot Product value : -37.000000000000014True 
+[ 1. -1. -1. -1.  1.] Added value: -2.357643654414159 Dot Product value : -17.000000000000004True 
+[ 0.  1. -1. -1.  1.] Added value: -0.3077556016494998 Dot Product value : -1.0True 
+[-1.  1. -1. -1.  1.] Added value: -1.7219691640225951 Dot Product value : -11.000000000000004True 
+[ 1.  1. -1. -1.  1.] Added value: 1.1064579607235956 Dot Product value : 9.000000000000004True 
+[ 0.  0.  1. -1.  1.] Added value: 2.4323295457812026 Dot Product value : 18.000000000000004True 
+[-1.  0.  1. -1.  1.] Added value: 1.0181159834081075 Dot Product value : 8.0True 
+[ 1.  0.  1. -1.  1.] Added value: 3.8465431081542976 Dot Product value : 28.000000000000007True 
+[ 0. -1.  1. -1.  1.] Added value: 0.7002787382123254 Dot Product value : 5.0True 
+[-1. -1.  1. -1.  1.] Added value: -0.7139348241607699 Dot Product value : -5.0000000000000036True 
+[ 1. -1.  1. -1.  1.] Added value: 2.114492300585421 Dot Product value : 15.000000000000004True 
+[ 0.  1.  1. -1.  1.] Added value: 4.164380353350079 Dot Product value : 31.000000000000007True 
+[-1.  1.  1. -1.  1.] Added value: 2.7501667909769845 Dot Product value : 21.000000000000004True 
+[ 1.  1.  1. -1.  1.] Added value: 5.578593915723175 Dot Product value : 41.000000000000014True 
+[0. 0. 0. 1. 1.] Added value: 5.095241053847769 Dot Product value : 38.00000000000001True 
+[-1.  0.  0.  1.  1.] Added value: 3.6810274914746737 Dot Product value : 28.000000000000004True 
+[1. 0. 0. 1. 1.] Added value: 6.5094546162208635 Dot Product value : 48.000000000000014True 
+[ 0. -1.  0.  1.  1.] Added value: 3.3631902462788914 Dot Product value : 25.000000000000004True 
+[-1. -1.  0.  1.  1.] Added value: 1.948976683905796 Dot Product value : 15.0True 
+[ 1. -1.  0.  1.  1.] Added value: 4.777403808651987 Dot Product value : 35.00000000000001True 
+[0. 1. 0. 1. 1.] Added value: 6.827291861416646 Dot Product value : 51.000000000000014True 
+[-1.  1.  0.  1.  1.] Added value: 5.41307829904355 Dot Product value : 41.00000000000001True 
+[1. 1. 0. 1. 1.] Added value: 8.241505423789741 Dot Product value : 61.000000000000014True 
+[ 0.  0. -1.  1.  1.] Added value: 2.859173076347979 Dot Product value : 22.000000000000004True 
+[-1.  0. -1.  1.  1.] Added value: 1.4449595139748839 Dot Product value : 12.0True 
+[ 1.  0. -1.  1.  1.] Added value: 4.273386638721074 Dot Product value : 32.00000000000001True 
+[ 0. -1. -1.  1.  1.] Added value: 1.1271222687791016 Dot Product value : 9.0True 
+[-1. -1. -1.  1.  1.] Added value: -0.28709129359399377 Dot Product value : -1.000000000000007True 
+[ 1. -1. -1.  1.  1.] Added value: 2.541335831152197 Dot Product value : 19.000000000000004True 
+[ 0.  1. -1.  1.  1.] Added value: 4.5912238839168555 Dot Product value : 35.00000000000001True 
+[-1.  1. -1.  1.  1.] Added value: 3.1770103215437606 Dot Product value : 25.000000000000004True 
+[ 1.  1. -1.  1.  1.] Added value: 6.005437446289951 Dot Product value : 45.000000000000014True 
+[0. 0. 1. 1. 1.] Added value: 7.331309031347558 Dot Product value : 54.000000000000014True 
+[-1.  0.  1.  1.  1.] Added value: 5.9170954689744635 Dot Product value : 44.00000000000001True 
+[1. 0. 1. 1. 1.] Added value: 8.745522593720654 Dot Product value : 64.00000000000001True 
+[ 0. -1.  1.  1.  1.] Added value: 5.599258223778682 Dot Product value : 41.00000000000001True 
+[-1. -1.  1.  1.  1.] Added value: 4.185044661405586 Dot Product value : 31.000000000000004True 
+[ 1. -1.  1.  1.  1.] Added value: 7.013471786151777 Dot Product value : 51.000000000000014True 
+[0. 1. 1. 1. 1.] Added value: 9.063359838916437 Dot Product value : 67.00000000000001True 
+[-1.  1.  1.  1.  1.] Added value: 7.64914627654334 Dot Product value : 57.000000000000014True 
+[1. 1. 1. 1. 1.] Added value: 10.477573401289531 Dot Product value : 77.00000000000001True 
+
+  
+ Final Array taken : 
+[[ 1. -1. -1.  0.  1.]
+ [-1.  1.  1. -1.  0.]
+ [-1.  1.  0.  1. -1.]
+ [ 1.  1.  1. -1. -1.]
+ [ 0. -1.  1.  1. -1.]]
+ [10. 13. 16. 18. 20.]
+ Trues: 242	 Falses 0
+ 
+ 
