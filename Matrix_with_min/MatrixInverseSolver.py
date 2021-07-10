@@ -55,7 +55,19 @@ def matrixmethod(inp):
 
     coeff_array = np.zeros((inp,inp))
 
-    MatrixMaker.func(inp,coeff_array,outputfile)
+    # MatrixMaker.func(inp,coeff_array,outputfile)
+    
+    coeff_array = np.array([[-1, -1,  1,  1,  1,  1,  0, -1, -1,],
+                            [-1, -1, -1,  0,  1,  1,  1,  0, -1,],
+                            [ 0, -1, -1,  0, -1,  1,  1, -1,  1,],
+                            [ 1,  0,  1,  1, -1,  0, -1,  1, -1,],
+                            [-1, -1, -1,  1,  1,  0, -1,  1,  0,],
+                            [ 1,  0,  1,  1, -1, -1,  1, -1,  0,],
+                            [ 0, -1,  0, -1,  0, -1,  0,  1,  1,],
+                           [-1,  1,  1, -1,  1, -1, -1,  0,  1],
+                            [ 1, -1,  0, -1,  1,  0,  0, -1,  1,]])
+
+    # [-1,  1,  1, -1,  1, -1, -1,  0,  1]
 
     b = np.ones(inp)
 
@@ -94,8 +106,8 @@ def matrixmethod(inp):
     
     
 
-for i in range (2,15):
-    matrixmethod(i)
-    
+# for i in range (2,15):
+#     matrixmethod(i)
+matrixmethod(9)
     
     
