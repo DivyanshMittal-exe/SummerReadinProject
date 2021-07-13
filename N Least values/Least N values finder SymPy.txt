@@ -1,0 +1,117 @@
+0 : 
+
+
+1 : 
+sqrt(2) [1.]
+
+
+2 : 
+-sqrt(2) + sqrt(3) [-1.  1.]
+sqrt(2) [1. 0.]
+
+
+3 : 
+-sqrt(2) + sqrt(3) [-1.  1.  0.]
+-sqrt(3) + sqrt(5) [ 0. -1.  1.]
+-sqrt(2) + sqrt(5) [-1.  0.  1.]
+
+
+4 : 
+-sqrt(6) - sqrt(2) + sqrt(3) + sqrt(5) [-1.  1.  1. -1.]
+-sqrt(5) + sqrt(6) [ 0.  0. -1.  1.]
+-sqrt(2) + sqrt(3) [-1.  1.  0.  0.]
+-sqrt(3) + sqrt(5) [ 0. -1.  1.  0.]
+
+
+5 : 
+-sqrt(5) - sqrt(3) + sqrt(2) + sqrt(7) [ 1. -1. -1.  0.  1.]
+-sqrt(6) - sqrt(2) + sqrt(3) + sqrt(5) [-1.  1.  1. -1.  0.]
+-sqrt(7) - sqrt(2) + sqrt(3) + sqrt(6) [-1.  1.  0.  1. -1.]
+-sqrt(6) + sqrt(7) [ 0.  0.  0. -1.  1.]
+-sqrt(5) + sqrt(6) [ 0.  0. -1.  1.  0.]
+
+
+6 : 
+-sqrt(7) - sqrt(5) + sqrt(3) + sqrt(10) [ 0.  1. -1.  0. -1.  1.]
+-sqrt(10) - sqrt(5) - sqrt(2) + sqrt(3) + sqrt(6) + sqrt(7) [-1.  1. -1.  1.  1. -1.]
+-sqrt(3) - sqrt(2) + sqrt(10) [-1. -1.  0.  0.  0.  1.]
+-sqrt(5) - sqrt(3) + sqrt(2) + sqrt(7) [ 1. -1. -1.  0.  1.  0.]
+-sqrt(6) - sqrt(2) + sqrt(3) + sqrt(5) [-1.  1.  1. -1.  0.  0.]
+-sqrt(10) - sqrt(2) + sqrt(5) + sqrt(6) [-1.  0.  1.  1.  0. -1.]
+
+
+7 : 
+-sqrt(7) - sqrt(5) + sqrt(3) + sqrt(10) [ 0.  1. -1.  0. -1.  1.  0.]
+-sqrt(10) - sqrt(5) - sqrt(2) + sqrt(3) + sqrt(6) + sqrt(7) [-1.  1. -1.  1.  1. -1.  0.]
+-sqrt(3) - sqrt(2) + sqrt(10) [-1. -1.  0.  0.  0.  1.  0.]
+-sqrt(11) - sqrt(6) + sqrt(2) + sqrt(3) + sqrt(7) [ 1.  1.  0. -1.  1.  0. -1.]
+-sqrt(11) - sqrt(10) + sqrt(2) + sqrt(6) + sqrt(7) [ 1.  0.  0.  1.  1. -1. -1.]
+-sqrt(10) - sqrt(6) - sqrt(3) + sqrt(2) + sqrt(7) + sqrt(11) [ 1. -1.  0. -1.  1. -1.  1.]
+-sqrt(11) - sqrt(6) + sqrt(7) + sqrt(10) [ 0.  0.  0. -1.  1.  1. -1.]
+
+
+8 : 
+-sqrt(11) - sqrt(5) - sqrt(3) - sqrt(2) + sqrt(6) + sqrt(7) + sqrt(13) [-1. -1. -1.  1.  1.  0. -1.  1.]
+-sqrt(13) - sqrt(10) - sqrt(7) + sqrt(2) + sqrt(5) + sqrt(6) + sqrt(11) [ 1.  0.  1.  1. -1. -1.  1. -1.]
+-sqrt(13) - sqrt(11) - sqrt(7) + sqrt(3) + sqrt(5) + sqrt(6) + sqrt(10) [ 0.  1.  1.  1. -1.  1. -1. -1.]
+-sqrt(7) - sqrt(5) + sqrt(3) + sqrt(10) [ 0.  1. -1.  0. -1.  1.  0.  0.]
+-sqrt(13) - sqrt(7) - sqrt(6) + sqrt(5) + sqrt(10) + sqrt(11) [ 0.  0.  1. -1. -1.  1.  1. -1.]
+-sqrt(10) - sqrt(5) - sqrt(2) + sqrt(3) + sqrt(6) + sqrt(7) [-1.  1. -1.  1.  1. -1.  0.  0.]
+-sqrt(3) - sqrt(2) + sqrt(10) [-1. -1.  0.  0.  0.  1.  0.  0.]
+-sqrt(13) - sqrt(10) - sqrt(2) + sqrt(5) + sqrt(7) + sqrt(11) [-1.  0.  1.  0.  1. -1.  1. -1.]
+
+
+9 : 
+-sqrt(14) - sqrt(13) - sqrt(3) - sqrt(2) + sqrt(5) + sqrt(6) + sqrt(7) + sqrt(10) [-1. -1.  1.  1.  1.  1.  0. -1. -1.]
+-sqrt(14) - sqrt(5) - sqrt(3) - sqrt(2) + sqrt(7) + sqrt(10) + sqrt(11) [-1. -1. -1.  0.  1.  1.  1.  0. -1.]
+-sqrt(13) - sqrt(7) - sqrt(5) - sqrt(3) + sqrt(10) + sqrt(11) + sqrt(14) [ 0. -1. -1.  0. -1.  1.  1. -1.  1.]
+-sqrt(14) - sqrt(11) - sqrt(7) + sqrt(2) + sqrt(5) + sqrt(6) + sqrt(13) [ 1.  0.  1.  1. -1.  0. -1.  1. -1.]
+-sqrt(11) - sqrt(5) - sqrt(3) - sqrt(2) + sqrt(6) + sqrt(7) + sqrt(13) [-1. -1. -1.  1.  1.  0. -1.  1.  0.]
+-sqrt(13) - sqrt(10) - sqrt(7) + sqrt(2) + sqrt(5) + sqrt(6) + sqrt(11) [ 1.  0.  1.  1. -1. -1.  1. -1.  0.]
+-sqrt(13) - sqrt(10) - sqrt(5) - sqrt(3) - sqrt(2) + sqrt(6) + sqrt(7) + sqrt(11) + sqrt(14) [-1. -1. -1.  1.  1. -1.  1. -1.  1.]
+-sqrt(10) - sqrt(6) - sqrt(3) + sqrt(13) + sqrt(14) [ 0. -1.  0. -1.  0. -1.  0.  1.  1.]
+-sqrt(14) - sqrt(7) - sqrt(6) - sqrt(3) + sqrt(2) + sqrt(5) + sqrt(11) + sqrt(13) [ 1. -1.  1. -1. -1.  0.  1.  1. -1.]
+
+
+10 : 
+-sqrt(14) - sqrt(13) - sqrt(3) - sqrt(2) + sqrt(5) + sqrt(6) + sqrt(7) + sqrt(10) [-1. -1.  1.  1.  1.  1.  0. -1. -1.  0.]
+-sqrt(14) - sqrt(5) - sqrt(3) - sqrt(2) + sqrt(7) + sqrt(10) + sqrt(11) [-1. -1. -1.  0.  1.  1.  1.  0. -1.  0.]
+-sqrt(15) - sqrt(14) - sqrt(11) - sqrt(6) + sqrt(3) + sqrt(5) + sqrt(7) + sqrt(10) + sqrt(13) [ 0.  1.  1. -1.  1.  1. -1.  1. -1. -1.]
+-sqrt(13) - sqrt(7) - sqrt(5) - sqrt(3) + sqrt(10) + sqrt(11) + sqrt(14) [ 0. -1. -1.  0. -1.  1.  1. -1.  1.  0.]
+-sqrt(14) - sqrt(11) - sqrt(7) + sqrt(2) + sqrt(5) + sqrt(6) + sqrt(13) [ 1.  0.  1.  1. -1.  0. -1.  1. -1.  0.]
+-sqrt(15) - sqrt(11) - sqrt(7) - sqrt(6) + sqrt(2) + sqrt(3) + sqrt(5) + sqrt(10) + sqrt(14) [ 1.  1.  1. -1. -1.  1. -1.  0.  1. -1.]
+-sqrt(11) - sqrt(5) - sqrt(3) - sqrt(2) + sqrt(6) + sqrt(7) + sqrt(13) [-1. -1. -1.  1.  1.  0. -1.  1.  0.  0.]
+-sqrt(15) - sqrt(13) - sqrt(6) + sqrt(3) + sqrt(5) + sqrt(7) + sqrt(11) [ 0.  1.  1. -1.  1.  0.  1. -1.  0. -1.]
+-sqrt(13) - sqrt(10) - sqrt(7) + sqrt(2) + sqrt(5) + sqrt(6) + sqrt(11) [ 1.  0.  1.  1. -1. -1.  1. -1.  0.  0.]
+-sqrt(15) - sqrt(7) - sqrt(5) + sqrt(2) + sqrt(3) + sqrt(6) + sqrt(10) [ 1.  1. -1.  1. -1.  1.  0.  0.  0. -1.]
+
+
+11 : 
+-sqrt(14) - sqrt(13) - sqrt(3) - sqrt(2) + sqrt(5) + sqrt(6) + sqrt(7) + sqrt(10) [-1. -1.  1.  1.  1.  1.  0. -1. -1.  0.  0.]
+-sqrt(11) - sqrt(5) - sqrt(3) + sqrt(10) + sqrt(17) [ 0. -1. -1.  0.  0.  1. -1.  0.  0.  0.  1.]
+-sqrt(14) - sqrt(5) - sqrt(3) - sqrt(2) + sqrt(7) + sqrt(10) + sqrt(11) [-1. -1. -1.  0.  1.  1.  1.  0. -1.  0.  0.]
+-sqrt(14) - sqrt(13) - sqrt(7) - sqrt(2) + sqrt(3) + sqrt(5) + sqrt(11) + sqrt(17) [-1.  1.  1.  0. -1.  0.  1. -1. -1.  0.  1.]
+-sqrt(15) - sqrt(14) - sqrt(11) - sqrt(6) + sqrt(3) + sqrt(5) + sqrt(7) + sqrt(10) + sqrt(13) [ 0.  1.  1. -1.  1.  1. -1.  1. -1. -1.  0.]
+-sqrt(13) - sqrt(10) + sqrt(7) + sqrt(17) [ 0.  0.  0.  0.  1. -1.  0. -1.  0.  0.  1.]
+-sqrt(13) - sqrt(7) - sqrt(5) - sqrt(3) + sqrt(10) + sqrt(11) + sqrt(14) [ 0. -1. -1.  0. -1.  1.  1. -1.  1.  0.  0.]
+-sqrt(17) - sqrt(10) - sqrt(2) + sqrt(6) + sqrt(7) + sqrt(13) [-1.  0.  0.  1.  1. -1.  0.  1.  0.  0. -1.]
+-sqrt(14) - sqrt(11) - sqrt(7) + sqrt(2) + sqrt(5) + sqrt(6) + sqrt(13) [ 1.  0.  1.  1. -1.  0. -1.  1. -1.  0.  0.]
+-sqrt(15) - sqrt(11) - sqrt(7) - sqrt(6) + sqrt(2) + sqrt(3) + sqrt(5) + sqrt(10) + sqrt(14) [ 1.  1.  1. -1. -1.  1. -1.  0.  1. -1.  0.]
+-sqrt(17) - sqrt(15) - sqrt(6) + sqrt(3) + sqrt(5) + sqrt(10) + sqrt(11) [ 0.  1.  1. -1.  0.  1.  1.  0.  0. -1. -1.]
+
+
+12 : 
+-sqrt(17) - sqrt(15) - sqrt(5) - sqrt(3) + sqrt(2) + sqrt(6) + sqrt(14) + sqrt(19) [ 1. -1. -1.  1.  0.  0.  0.  0.  1. -1. -1.  1.]
+-sqrt(14) - sqrt(13) - sqrt(3) - sqrt(2) + sqrt(5) + sqrt(6) + sqrt(7) + sqrt(10) [-1. -1.  1.  1.  1.  1.  0. -1. -1.  0.  0.  0.]
+-sqrt(15) - sqrt(11) - sqrt(10) - sqrt(7) - sqrt(5) + sqrt(2) + sqrt(3) + sqrt(13) + sqrt(17) + sqrt(19) [ 1.  1. -1.  0. -1. -1. -1.  1.  0. -1.  1.  1.]
+-sqrt(15) - sqrt(14) - sqrt(10) - sqrt(5) + sqrt(3) + sqrt(11) + sqrt(13) + sqrt(19) [ 0.  1. -1.  0.  0. -1.  1.  1. -1. -1.  0.  1.]
+-sqrt(15) - sqrt(14) - sqrt(11) + sqrt(6) + sqrt(17) + sqrt(19) [ 0.  0.  0.  1.  0.  0. -1.  0. -1. -1.  1.  1.]
+-sqrt(19) - sqrt(14) - sqrt(13) - sqrt(10) - sqrt(5) + sqrt(2) + sqrt(3) + sqrt(7) + sqrt(11) + sqrt(15) + sqrt(17) [ 1.  1. -1.  0.  1. -1.  1. -1. -1.  1.  1. -1.]
+-sqrt(14) - sqrt(13) - sqrt(11) - sqrt(6) + sqrt(5) + sqrt(7) + sqrt(15) + sqrt(19) [ 0.  0.  1. -1.  1.  0. -1. -1. -1.  1.  0.  1.]
+-sqrt(19) - sqrt(6) - sqrt(5) - sqrt(3) + sqrt(10) + sqrt(14) + sqrt(15) [ 0. -1. -1. -1.  0.  1.  0.  0.  1.  1.  0. -1.]
+-sqrt(19) - sqrt(11) - sqrt(10) - sqrt(5) + sqrt(2) + sqrt(3) + sqrt(6) + sqrt(13) + sqrt(15) [ 1.  1. -1.  1.  0. -1. -1.  1.  0.  1.  0. -1.]
+-sqrt(19) - sqrt(17) - sqrt(14) - sqrt(10) - sqrt(5) + sqrt(3) + sqrt(6) + sqrt(7) + sqrt(11) + sqrt(13) + sqrt(15) [ 0.  1. -1.  1.  1. -1.  1.  1. -1.  1. -1. -1.]
+-sqrt(17) - sqrt(14) - sqrt(11) - sqrt(7) + sqrt(2) + sqrt(3) + sqrt(6) + sqrt(15) + sqrt(19) [ 1.  1.  0.  1. -1.  0. -1.  0. -1.  1. -1.  1.]
+-sqrt(11) - sqrt(5) - sqrt(3) + sqrt(10) + sqrt(17) [ 0. -1. -1.  0.  0.  1. -1.  0.  0.  0.  1.  0.]
+
+
